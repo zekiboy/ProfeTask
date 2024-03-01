@@ -1,0 +1,34 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <a asp-area="" asp-controller="Home" asp-action="list" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">ALL PRODUCTS</a>
+</div>
+<br />
+
+<div class="text-center">
+    @if (User.Identity.IsAuthenticated)
+    {
+
+        <a asp-area="" asp-controller="Admin" asp-action="rolelist" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Role List</a>
+
+        <a asp-area="" asp-controller="Admin" asp-action="UserList" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">User List</a>
+
+        <a asp-area="" asp-controller="Admin" asp-action="ProductList" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Product List</a>
+
+    }
+    else
+    {
+        <a asp-area="" asp-controller="Account" asp-action="register" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Register</a>
+
+        <a asp-area="" asp-controller="Account" asp-action="login" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Login</a>
+    }
+
+
+    <a asp-area="" asp-controller="Account" asp-action="forgotpassword" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Reset Password</a>
+
+</div>

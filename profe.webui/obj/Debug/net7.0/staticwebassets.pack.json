@@ -1,0 +1,305 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/obj/Debug/net7.0/scopedcss/projectbundle/profe.webui.bundle.scp.css",
+      "PackagePath": "staticwebassets/profe.webui.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/img/.DS_Store",
+      "PackagePath": "staticwebassets/img/.DS_Store"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/img/393fdb05-f8ef-43cf-906b-f967c794f0c6.jpg",
+      "PackagePath": "staticwebassets/img/393fdb05-f8ef-43cf-906b-f967c794f0c6.jpg"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/img/420be7ed-df80-4953-b6d4-f0eb47174969.jpg",
+      "PackagePath": "staticwebassets/img/420be7ed-df80-4953-b6d4-f0eb47174969.jpg"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/img/6d651899-cacc-4cf0-b41e-0d142132709b.jpg",
+      "PackagePath": "staticwebassets/img/6d651899-cacc-4cf0-b41e-0d142132709b.jpg"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/img/84f588ac-9dc1-4643-a35b-dec9a15c44e6.jpg",
+      "PackagePath": "staticwebassets/img/84f588ac-9dc1-4643-a35b-dec9a15c44e6.jpg"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/img/b1bec6ca-c7cd-4aa4-a1b8-1a3e15b3c36a.jpg",
+      "PackagePath": "staticwebassets/img/b1bec6ca-c7cd-4aa4-a1b8-1a3e15b3c36a.jpg"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/img/c6a39654-3ea9-4922-91fa-0117495954e8.jpg",
+      "PackagePath": "staticwebassets/img/c6a39654-3ea9-4922-91fa-0117495954e8.jpg"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/img/profe1.jpg",
+      "PackagePath": "staticwebassets/img/profe1.jpg"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/img/profe2.jpg",
+      "PackagePath": "staticwebassets/img/profe2.jpg"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/zekiboy/Desktop/ProfeTask/profe.webui/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.profe.webui.props",
+      "PackagePath": "build\\profe.webui.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.profe.webui.props",
+      "PackagePath": "buildMultiTargeting\\profe.webui.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.profe.webui.props",
+      "PackagePath": "buildTransitive\\profe.webui.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.profe.webui.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

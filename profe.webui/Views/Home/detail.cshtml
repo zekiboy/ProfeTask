@@ -1,0 +1,57 @@
+﻿@model profe.webui.Models.ProductDetailModel
+
+<div class="row">
+
+
+    <div class="col-md-9">
+        @* <div class="card mb-3"> *@
+        <div class="card-body">
+            <div class="row no-gutters">
+                <div class="col-md-3">
+                    <img src="~/img/@Model.Product.ImgUrl" class="card-img" style="box-shadow: 3px 3px 5px  #888888;">
+                </div>
+                <div class="col-md-9">
+
+                    <h5 class="card-title">@Model.Product.productName.</h5>
+
+                    @foreach (var item in Model.Categories)
+                    {
+                        <a href="/home/list/@item.Id" class="btn btn-link -0 mb-3"> @item.categoryName </a>
+                    }
+                    <p class="card-text">@Html.Raw(Model.Product.Description)</p>
+
+                    <div class="mb-3">
+                        <h4 class="text-secondary mb-3">
+                            <i class="fa fa-turkish-lira">@Model.Product.Price</i>
+                        </h4>
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            <form asp-controller="Cart" asp-action="AddToCart" method="POST" class="form-inline">
+                                <input type="hidden" name="productId" value="@Model.Product.Id">
+                                <div class="input-group mb-3">
+                                    <div class="row" style="margin-right: 20px;">
+                                        <input type="number" name="quantity" class="form-control" value="1" min="1" step="1" style="width: 100px;">
+                                    </div>
+                                    <div class="input-group-append">
+                                        <button type="submit" class="btn btn-secondary">
+                                            <i class="fas fa-cart-plus"></i> Karta Ekle
+                                        </button>
+                                    </div>
+                                </div>
+                            </form>
+                        }
+
+
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+
+
+
+        @* </div> *@
+    </div>
+</div>
+

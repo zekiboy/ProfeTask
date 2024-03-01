@@ -1,0 +1,90 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'https' " />
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'http' " />
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.16" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.16" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.16">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.16">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="7.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.2" />
+    <PackageReference Include="SendGrid" Version="9.29.2" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Identity.Core" Version="7.0.16" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="7.0.16" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
+    <PackageReference Include="Azure.Storage.Blobs" Version="12.19.1" />
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.1.5" />
+    <PackageReference Include="Azure.Identity" Version="1.10.4" />
+    <PackageReference Include="FluentValidation" Version="11.9.0" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.9.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Entities\" />
+    <None Remove="Entities\Common\" />
+    <None Remove="Data\" />
+    <None Remove="Data\Context\" />
+    <None Remove="Data\Repositories\" />
+    <None Remove="Bases\" />
+    <None Remove="Data\EmailService\" />
+    <None Remove="Views\Account\" />
+    <None Remove="Views\Shared\Components\" />
+    <None Remove="Views\Shared\Components\Categories\" />
+    <None Remove="Data\Tokens\" />
+    <None Remove="Data\Services\" />
+    <None Remove="Data\Configurations\" />
+    <None Remove="ViewComponents\" />
+    <None Remove="Extensions\" />
+    <None Remove="Views\Admin\" />
+    <None Remove="Views\Cart\" />
+    <None Remove="Exceptions\" />
+    <None Remove="Validators\" />
+    <None Remove="Validators\AuthValidators\" />
+    <None Remove="Exceptions\AuthExceptions\" />
+    <None Remove="Rules\" />
+    <None Remove="Exceptions\ProductExceptions\" />
+    <None Remove="Validators\ProductValidators\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Entities\" />
+    <Folder Include="Entities\Common\" />
+    <Folder Include="Data\" />
+    <Folder Include="Data\Context\" />
+    <Folder Include="Data\Repositories\" />
+    <Folder Include="Bases\" />
+    <Folder Include="Data\EmailService\" />
+    <Folder Include="Views\Account\" />
+    <Folder Include="Views\Shared\Components\" />
+    <Folder Include="Views\Shared\Components\Categories\" />
+    <Folder Include="Data\Tokens\" />
+    <Folder Include="Data\Services\" />
+    <Folder Include="Data\Configurations\" />
+    <Folder Include="ViewComponents\" />
+    <Folder Include="Extensions\" />
+    <Folder Include="Views\Admin\" />
+    <Folder Include="Views\Cart\" />
+    <Folder Include="Exceptions\" />
+    <Folder Include="Validators\" />
+    <Folder Include="Validators\AuthValidators\" />
+    <Folder Include="Exceptions\AuthExceptions\" />
+    <Folder Include="Rules\" />
+    <Folder Include="Exceptions\ProductExceptions\" />
+    <Folder Include="Validators\ProductValidators\" />
+  </ItemGroup>
+</Project>
